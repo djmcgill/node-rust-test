@@ -1,0 +1,11 @@
+{
+  "name": "rs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "David McGillicuddy",
+  "license": "ISC",
+  "dependencies": {
+    "ffi": "^2.0.0"
+  }
+}
